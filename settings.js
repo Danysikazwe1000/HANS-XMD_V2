@@ -7,8 +7,8 @@
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "255785612486"
+global.ownername = "Barbie"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
@@ -20,7 +20,7 @@ global.packname = 'Sticker By'
 global.author = 'HANS-XMD'
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "HANS BOT"
+global.wm = "DC BOT"
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
 //custom prefix
@@ -30,9 +30,9 @@ global.prefa = ['','!','.','#','&']
 global.autolikestatus = true //For auto react Status Random
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false  //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.autoreact = false // This is For Auto React 
